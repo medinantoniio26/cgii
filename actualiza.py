@@ -1,4 +1,4 @@
-#!D:/Python/python.exe
+#!C:/Python311/python.exe
 import mysql.connector
 import os
 import cgi
